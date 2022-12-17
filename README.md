@@ -1,2 +1,2 @@
 # SignUpBackEnd
-signup backend side with mongoDB
+Node js + MongoDB
